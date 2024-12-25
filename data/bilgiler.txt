@@ -1,0 +1,5 @@
+1973,Kelebek,Dram,Franklin J. Schaffner,{(Dustin Hoffman,Erkek,ABD)(Steve McQueen,Erkek,ABD)}
+1997,Titanic,Romantik,James Cameron,{(Leonardo DiCaprio,Erkek,ABD)(Kate Winslet,Kadın,Ingiltere)}
+2001,Maymunlar Cehennemi,Macera,Tim Burton,{(Tim Roth,Erkek,Ingiltere)}
+2003,Karayip Korsanları,Macera,Gore Verbinski,{(Johnny Depp,Erkek,ABD)(Keira Knightley,Kadın,Ingiltere)}
+2007,Hayalet Sürücü,Aksiyon,Mark Steven Johnson,{(Nicolas Cage,Erkek,ABD)(Eva Mendes,Kadın,ABD)}
